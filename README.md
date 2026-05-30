@@ -12,8 +12,3 @@ ANOHA is an AI-powered waste classification app that identifies waste items from
 - Frontend: HTML, CSS, JavaScript
 - Backend: Vercel Serverless Functions
 - AI: Claude API (Anthropic)
-
-## Setup
-1. Clone the repo
-2. Add your `ANTHROPIC_API_KEY` in Vercel environment variables
-3. Deploy to Vercel
