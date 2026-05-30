@@ -1,0 +1,6 @@
+{
+  "name": "anoha-waste-classifier",
+  "version": "1.0.0",
+  "description": "AI-powered waste classification app using Claude Vision",
+  "type": "module"
+}
